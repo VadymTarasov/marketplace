@@ -9,8 +9,8 @@
         <source>reg.title</source>
         <target>Регистрация</target>
       </trans-unit>
-      <trans-unit id="u3I07BJ1" resname="reg.name">
-        <source>reg.name</source>
+      <trans-unit id="u3I07BJ1" resname="name">
+        <source>name</source>
         <target>Имя</target>
       </trans-unit>
       <trans-unit id="u3I07BJ2" resname="phone">
@@ -36,6 +36,10 @@
       <trans-unit id="u3I07BJ7" resname="Agree terms">
         <source>Agree terms</source>
         <target>Принять условия</target>
+      </trans-unit>
+      <trans-unit id="u3I07BJ8" resname="user.profile">
+        <source>user.profile</source>
+        <target>Профиль пользователя</target>
       </trans-unit>
     </body>
   </file>

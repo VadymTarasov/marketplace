@@ -23,7 +23,7 @@ class RegistrationFormType extends AbstractType
         $builder
             ->add('name', \Symfony\Component\Form\Extension\Core\Type\TextType::class,
             [
-                'label' => 'reg.name'
+                'label' => 'name'
             ])
             ->add('phone', NumberType::class,
             [
