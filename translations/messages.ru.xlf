@@ -77,6 +77,14 @@
         <source>shop.added</source>
         <target>Магазин добавлен</target>
       </trans-unit>
+      <trans-unit id="2">
+        <source>shops</source>
+        <target>Магазины</target>
+      </trans-unit>
+      <trans-unit id="3" resname="shop">
+        <source>shop</source>
+        <target>Магазин</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
